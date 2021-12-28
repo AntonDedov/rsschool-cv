@@ -31,4 +31,7 @@
             <li>Java</li>
           </ul>
         </section>
+          <h3> Hobbies: theater, music, fashion, travel, cinema</h3>
+          
+        
   </head>
