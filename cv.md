@@ -1,6 +1,5 @@
 
-<html lang="en">
-  
+<html lang="en">  
 <head>
     <div id="information">
     <h1> Anton Dedov</h1>
@@ -8,7 +7,7 @@
     <h3> evandeadoff@mail.ru</h3>
       </div>
     <section>
-      <h2> Education<h2>
+      <h2 style= "color: green> Education<h2>
         <ul> 
           <li> 2012 Specialist in Management Psychology, excellent mark, Institute of Psychology and Pedagogy of Chelyabinsk State University</li>
           <li> 2011 Communication translator, Italian, Faculty of Foreign Languages, Chelyabinsk State Pedagogical University</li>
@@ -31,7 +30,5 @@
             <li>Java</li>
           </ul>
         </section>
-          <h3> Hobbies: theater, music, fashion, travel, cinema</h3>
-          
-        
+          <h3> Hobbies: theater, music, fashion, travel, cinema</h3>        
   </head>
